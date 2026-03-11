@@ -1,0 +1,8 @@
+*.o
+a.out
+weather-analyser.*
+weather-analyser
+*.csv
+*.d
+gmon.out
+app
